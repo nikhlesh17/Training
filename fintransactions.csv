@@ -1,0 +1,1001 @@
+transactionID,item
+1,Car Insurance
+1,Mobile Banking
+2,Mutual Funds
+2,NPS
+3,NPS
+4,Stocks
+5,FD
+5,Bonds
+6,General Insurance
+6,Car Insurance
+7,Credit Card
+7,Stocks
+8,Credit Card
+8,Credit Card
+8,Mutual Funds
+9,Savings Account
+9,General Insurance
+10,Savings Account
+10,Mutual Funds
+10,Stocks
+10,NPS
+10,Mutual Funds
+11,Bonds
+11,Mobile Banking
+11,Car Insurance
+11,PPF
+11,Stocks
+12,Savings Account
+14,Car Insurance
+15,Bonds
+15,Savings Account
+16,PPF
+16,Credit Card
+17,General Insurance
+17,FD
+17,Debit Card
+18,Car Insurance
+18,Credit Card
+18,NRI Banking
+19,Mobile Banking
+19,Bonds
+20,General Insurance
+20,FD
+20,Bonds
+20,Debit Card
+21,General Insurance
+21,Mobile Banking
+21,Car Insurance
+21,Mobile Banking
+21,Savings Account
+22,General Insurance
+23,Mobile Banking
+24,Savings Account
+25,NRI Banking
+25,FD
+26,Car Insurance
+26,Debit Card
+26,FD
+27,PPF
+27,General Insurance
+27,Mutual Funds
+28,PPF
+28,NRI Banking
+29,NRI Banking
+29,Mutual Funds
+30,Bonds
+30,Credit Card
+32,Mobile Banking
+32,Mobile Banking
+32,General Insurance
+33,Mutual Funds
+34,Stocks
+35,Savings Account
+35,Savings Account
+35,Stocks
+36,General Insurance
+36,Credit Card
+36,Mutual Funds
+36,Credit Card
+36,Mutual Funds
+37,PPF
+38,Mobile Banking
+39,PPF
+40,FD
+40,Car Insurance
+40,Mutual Funds
+40,Stocks
+40,General Insurance
+41,Stocks
+41,Credit Card
+42,General Insurance
+42,NRI Banking
+42,Debit Card
+43,Credit Card
+43,FD
+44,NRI Banking
+44,Debit Card
+45,General Insurance
+46,Savings Account
+46,Bonds
+47,Credit Card
+48,FD
+49,NPS
+50,FD
+50,Bonds
+50,NPS
+51,NRI Banking
+51,Car Insurance
+51,FD
+52,Stocks
+52,NRI Banking
+54,Mobile Banking
+54,FD
+54,Savings Account
+55,Mutual Funds
+55,Car Insurance
+56,Debit Card
+56,NRI Banking
+57,Debit Card
+57,Car Insurance
+59,NPS
+60,Mutual Funds
+60,Bonds
+61,Mobile Banking
+61,Car Insurance
+61,Mutual Funds
+61,Mutual Funds
+62,FD
+63,Savings Account
+63,Savings Account
+64,Mobile Banking
+65,Bonds
+65,Credit Card
+66,Mobile Banking
+66,Bonds
+67,NPS
+67,Bonds
+67,Bonds
+68,Credit Card
+69,FD
+69,Mutual Funds
+70,NPS
+70,PPF
+70,Mobile Banking
+70,General Insurance
+70,General Insurance
+71,Car Insurance
+72,Mutual Funds
+73,Savings Account
+73,Car Insurance
+73,Car Insurance
+74,Bonds
+74,Credit Card
+74,General Insurance
+75,PPF
+75,NRI Banking
+75,PPF
+75,Car Insurance
+75,Mobile Banking
+76,NPS
+76,FD
+77,Stocks
+78,Mobile Banking
+78,Stocks
+79,General Insurance
+80,Mobile Banking
+80,Bonds
+80,Debit Card
+81,NRI Banking
+81,Savings Account
+82,Savings Account
+83,Debit Card
+83,PPF
+84,NRI Banking
+85,NRI Banking
+85,Credit Card
+86,Credit Card
+86,NPS
+86,General Insurance
+87,Savings Account
+87,Debit Card
+88,PPF
+89,Credit Card
+90,Credit Card
+91,Bonds
+91,NPS
+91,Bonds
+92,General Insurance
+92,Bonds
+92,Mutual Funds
+93,Bonds
+93,FD
+94,Mutual Funds
+94,FD
+95,Car Insurance
+95,Debit Card
+96,Bonds
+96,Savings Account
+96,NPS
+98,Mobile Banking
+98,Stocks
+99,Savings Account
+100,Savings Account
+101,Mutual Funds
+102,Savings Account
+102,Mutual Funds
+102,NRI Banking
+103,Stocks
+103,Savings Account
+104,PPF
+104,Credit Card
+105,Credit Card
+105,NPS
+105,NRI Banking
+105,NRI Banking
+106,General Insurance
+107,General Insurance
+107,General Insurance
+107,Mobile Banking
+108,General Insurance
+108,Car Insurance
+108,Credit Card
+108,Savings Account
+108,NRI Banking
+108,Mobile Banking
+109,Bonds
+109,FD
+110,NRI Banking
+110,Credit Card
+111,Credit Card
+111,FD
+112,Bonds
+112,General Insurance
+113,Stocks
+113,Savings Account
+113,NPS
+113,Mutual Funds
+113,Mobile Banking
+113,Savings Account
+113,FD
+114,Savings Account
+114,Debit Card
+114,NRI Banking
+114,General Insurance
+114,NPS
+115,Car Insurance
+115,FD
+115,Mobile Banking
+115,Savings Account
+117,Car Insurance
+117,Savings Account
+117,Debit Card
+117,Mobile Banking
+118,Savings Account
+118,General Insurance
+118,PPF
+118,Stocks
+118,Car Insurance
+119,Stocks
+119,NRI Banking
+120,Bonds
+121,Savings Account
+121,FD
+122,NPS
+122,Mobile Banking
+123,Bonds
+123,Stocks
+123,Stocks
+125,FD
+125,Mutual Funds
+125,Mutual Funds
+126,Debit Card
+126,Mobile Banking
+127,NRI Banking
+128,General Insurance
+128,NRI Banking
+128,NRI Banking
+129,Credit Card
+129,General Insurance
+129,Credit Card
+130,FD
+130,FD
+131,Mobile Banking
+133,Savings Account
+135,Car Insurance
+135,PPF
+137,Car Insurance
+138,FD
+138,NRI Banking
+139,NPS
+139,Mobile Banking
+140,Debit Card
+140,Savings Account
+141,Mobile Banking
+142,Credit Card
+142,Debit Card
+143,Stocks
+143,Mutual Funds
+144,Mutual Funds
+144,NPS
+144,PPF
+144,Credit Card
+145,Savings Account
+146,PPF
+146,FD
+147,NRI Banking
+148,General Insurance
+148,Car Insurance
+149,Savings Account
+149,NPS
+150,FD
+150,Bonds
+151,Mobile Banking
+152,Debit Card
+152,Bonds
+152,Savings Account
+153,Savings Account
+153,Bonds
+153,General Insurance
+154,PPF
+155,Car Insurance
+156,Bonds
+156,Car Insurance
+157,NPS
+157,Mutual Funds
+158,FD
+159,Mutual Funds
+160,Savings Account
+160,Debit Card
+160,FD
+160,Mobile Banking
+160,Mobile Banking
+160,Car Insurance
+161,NRI Banking
+161,General Insurance
+161,Mutual Funds
+162,NPS
+162,Credit Card
+164,Stocks
+164,Credit Card
+164,Mutual Funds
+165,NPS
+165,Debit Card
+166,Savings Account
+167,Credit Card
+167,NRI Banking
+167,Bonds
+167,Debit Card
+167,General Insurance
+167,FD
+168,PPF
+169,FD
+170,Savings Account
+170,Stocks
+171,Mutual Funds
+171,Car Insurance
+171,NRI Banking
+171,Car Insurance
+172,NRI Banking
+172,PPF
+172,NPS
+173,Bonds
+174,Debit Card
+175,Stocks
+176,Stocks
+176,Savings Account
+177,Mutual Funds
+178,Mobile Banking
+179,Debit Card
+179,Car Insurance
+180,Mutual Funds
+180,PPF
+181,Credit Card
+181,NPS
+181,General Insurance
+182,FD
+183,Stocks
+183,Car Insurance
+184,Credit Card
+185,Bonds
+185,Bonds
+185,Credit Card
+186,FD
+186,PPF
+187,NPS
+187,Debit Card
+188,NPS
+188,Stocks
+189,Mutual Funds
+189,Debit Card
+189,Car Insurance
+191,Debit Card
+192,Savings Account
+192,Savings Account
+192,Bonds
+193,Car Insurance
+193,NRI Banking
+194,FD
+195,Bonds
+195,NPS
+195,Car Insurance
+196,General Insurance
+196,Stocks
+197,General Insurance
+198,Stocks
+198,NRI Banking
+198,Mobile Banking
+198,Credit Card
+199,Mutual Funds
+199,Credit Card
+200,Stocks
+201,FD
+201,Mobile Banking
+201,Mobile Banking
+202,General Insurance
+202,PPF
+203,PPF
+203,FD
+203,NRI Banking
+204,General Insurance
+204,NRI Banking
+205,Mutual Funds
+205,Stocks
+205,Credit Card
+206,Bonds
+206,Car Insurance
+206,PPF
+207,NRI Banking
+208,Mutual Funds
+209,Debit Card
+210,Car Insurance
+210,FD
+211,Mutual Funds
+211,Stocks
+211,NPS
+212,Car Insurance
+213,General Insurance
+213,FD
+213,PPF
+214,Credit Card
+215,Debit Card
+216,Mutual Funds
+217,Mobile Banking
+217,Mobile Banking
+217,NPS
+218,PPF
+218,Mobile Banking
+218,Credit Card
+218,Stocks
+218,NPS
+219,General Insurance
+219,General Insurance
+219,Debit Card
+219,Debit Card
+220,Bonds
+221,NPS
+221,Debit Card
+221,Bonds
+222,Debit Card
+222,Stocks
+222,Car Insurance
+222,NPS
+223,NRI Banking
+223,Car Insurance
+224,NRI Banking
+224,PPF
+224,Credit Card
+227,Debit Card
+227,Bonds
+227,Debit Card
+228,PPF
+228,Mobile Banking
+228,Stocks
+228,Mobile Banking
+230,PPF
+230,Mobile Banking
+230,PPF
+230,General Insurance
+230,FD
+231,Car Insurance
+232,Mutual Funds
+232,Car Insurance
+233,Mobile Banking
+233,General Insurance
+235,Stocks
+235,Debit Card
+235,Credit Card
+236,Credit Card
+236,Stocks
+236,Credit Card
+236,Savings Account
+237,Mobile Banking
+238,Mutual Funds
+238,FD
+239,Credit Card
+239,General Insurance
+240,NRI Banking
+240,General Insurance
+240,Bonds
+240,Credit Card
+240,FD
+241,PPF
+241,NRI Banking
+242,Bonds
+242,NRI Banking
+243,Stocks
+243,Mobile Banking
+244,Car Insurance
+245,Debit Card
+245,Bonds
+245,FD
+246,Mutual Funds
+246,General Insurance
+246,General Insurance
+246,Mobile Banking
+246,Debit Card
+246,NRI Banking
+247,General Insurance
+248,NPS
+249,Debit Card
+250,Debit Card
+252,Bonds
+252,Car Insurance
+254,NRI Banking
+255,PPF
+255,Debit Card
+256,Mobile Banking
+256,Mobile Banking
+256,NRI Banking
+258,Savings Account
+258,NRI Banking
+259,NRI Banking
+259,Car Insurance
+260,FD
+260,Savings Account
+260,Stocks
+261,FD
+262,FD
+262,General Insurance
+263,Mobile Banking
+263,NRI Banking
+264,FD
+264,Debit Card
+266,Savings Account
+267,NPS
+268,General Insurance
+268,Car Insurance
+269,Mobile Banking
+269,PPF
+270,Savings Account
+271,Mutual Funds
+271,PPF
+271,Car Insurance
+273,Stocks
+273,Stocks
+273,Debit Card
+275,FD
+276,Debit Card
+276,Bonds
+276,NPS
+276,Credit Card
+276,Debit Card
+277,Stocks
+277,Car Insurance
+278,Savings Account
+278,Bonds
+279,Mobile Banking
+280,NPS
+281,NRI Banking
+281,Credit Card
+282,Credit Card
+282,Bonds
+283,Mobile Banking
+284,General Insurance
+286,Debit Card
+288,Mutual Funds
+288,PPF
+290,PPF
+291,Stocks
+291,Bonds
+291,NRI Banking
+292,NRI Banking
+293,PPF
+293,NPS
+293,Car Insurance
+293,NRI Banking
+293,Credit Card
+294,Bonds
+294,Credit Card
+295,Savings Account
+295,Mobile Banking
+295,Credit Card
+296,NRI Banking
+298,PPF
+298,Car Insurance
+298,FD
+299,Bonds
+299,General Insurance
+299,Mobile Banking
+300,Mobile Banking
+300,NPS
+300,NRI Banking
+300,General Insurance
+301,Bonds
+301,Bonds
+301,Credit Card
+302,Debit Card
+302,Mobile Banking
+302,General Insurance
+302,Bonds
+302,FD
+302,Stocks
+303,FD
+303,Car Insurance
+304,NPS
+305,PPF
+305,Bonds
+305,Car Insurance
+305,Savings Account
+306,Savings Account
+306,Mutual Funds
+307,NPS
+309,Mobile Banking
+310,General Insurance
+310,Mutual Funds
+310,NPS
+311,Debit Card
+312,Stocks
+312,Mobile Banking
+312,Mutual Funds
+312,Debit Card
+314,Car Insurance
+314,Savings Account
+314,Mutual Funds
+316,NPS
+317,Car Insurance
+317,NPS
+317,FD
+317,NPS
+317,Mobile Banking
+318,Stocks
+320,Bonds
+321,Car Insurance
+321,General Insurance
+322,Savings Account
+322,PPF
+322,NRI Banking
+322,NRI Banking
+323,Credit Card
+325,NPS
+325,General Insurance
+326,Bonds
+326,Mobile Banking
+326,Bonds
+327,NPS
+327,FD
+327,Debit Card
+327,Credit Card
+327,Bonds
+328,NPS
+328,NPS
+329,General Insurance
+329,Mobile Banking
+329,Bonds
+330,Debit Card
+331,General Insurance
+331,NPS
+332,Debit Card
+333,FD
+333,Bonds
+333,Savings Account
+333,Savings Account
+333,Credit Card
+333,NRI Banking
+335,Stocks
+335,Car Insurance
+335,Mobile Banking
+336,Mutual Funds
+336,General Insurance
+337,Car Insurance
+337,Bonds
+338,Stocks
+338,FD
+339,Debit Card
+340,Debit Card
+340,Mobile Banking
+340,Mobile Banking
+340,Bonds
+340,Savings Account
+341,PPF
+341,Bonds
+341,PPF
+342,PPF
+342,Debit Card
+343,Car Insurance
+343,NRI Banking
+343,NRI Banking
+344,NPS
+344,NRI Banking
+346,Mutual Funds
+346,PPF
+346,Mobile Banking
+347,Car Insurance
+347,Car Insurance
+348,General Insurance
+348,FD
+348,Mobile Banking
+349,NPS
+350,Car Insurance
+350,Bonds
+350,Savings Account
+350,Car Insurance
+350,Mobile Banking
+351,Credit Card
+351,Bonds
+351,PPF
+351,Bonds
+352,Bonds
+352,NRI Banking
+353,Debit Card
+353,Mutual Funds
+354,Savings Account
+354,Savings Account
+354,Car Insurance
+354,Bonds
+355,PPF
+355,NRI Banking
+355,Savings Account
+356,General Insurance
+357,Mobile Banking
+358,FD
+358,NRI Banking
+359,Car Insurance
+360,Car Insurance
+360,Credit Card
+361,Mobile Banking
+362,Mutual Funds
+363,Car Insurance
+365,Debit Card
+366,Car Insurance
+366,Bonds
+366,Car Insurance
+367,Bonds
+368,Mutual Funds
+368,NRI Banking
+369,Mobile Banking
+371,General Insurance
+371,Debit Card
+371,NPS
+372,Stocks
+372,FD
+373,NPS
+375,Car Insurance
+375,General Insurance
+376,General Insurance
+377,Credit Card
+377,Car Insurance
+377,FD
+378,FD
+378,Bonds
+380,Car Insurance
+380,General Insurance
+381,NRI Banking
+381,General Insurance
+382,PPF
+382,Mobile Banking
+383,Car Insurance
+383,Credit Card
+385,NRI Banking
+385,Mutual Funds
+386,Mobile Banking
+386,PPF
+386,NPS
+386,FD
+387,Stocks
+387,PPF
+387,NRI Banking
+388,Savings Account
+388,Mutual Funds
+388,NRI Banking
+388,Stocks
+389,Savings Account
+390,NPS
+390,Mobile Banking
+390,NRI Banking
+390,Mutual Funds
+390,NPS
+391,FD
+391,Mutual Funds
+391,Savings Account
+392,Stocks
+392,Mobile Banking
+393,Stocks
+394,FD
+394,Car Insurance
+394,Car Insurance
+394,NRI Banking
+395,Stocks
+396,Car Insurance
+397,Mobile Banking
+397,Debit Card
+398,Mobile Banking
+398,NRI Banking
+398,Savings Account
+398,Credit Card
+399,Bonds
+401,Stocks
+403,NRI Banking
+403,Credit Card
+404,NPS
+404,Mutual Funds
+405,Stocks
+406,Stocks
+406,Savings Account
+406,Mutual Funds
+407,General Insurance
+407,Mobile Banking
+408,NRI Banking
+408,Credit Card
+408,NRI Banking
+409,Mutual Funds
+409,Debit Card
+411,NRI Banking
+411,Credit Card
+411,Car Insurance
+411,Stocks
+411,Car Insurance
+411,PPF
+412,NPS
+412,PPF
+413,PPF
+414,General Insurance
+415,NRI Banking
+415,Bonds
+415,Stocks
+416,Credit Card
+417,Savings Account
+419,NPS
+419,Savings Account
+419,Car Insurance
+419,Stocks
+420,FD
+420,Stocks
+420,NRI Banking
+421,Mobile Banking
+422,Credit Card
+422,Stocks
+422,NRI Banking
+423,Stocks
+425,Savings Account
+426,NRI Banking
+427,PPF
+428,Bonds
+428,Car Insurance
+428,Mobile Banking
+428,Savings Account
+428,Debit Card
+429,Mobile Banking
+429,NRI Banking
+430,Car Insurance
+431,Savings Account
+431,Credit Card
+432,Mobile Banking
+433,Mutual Funds
+434,Mutual Funds
+435,FD
+436,Mutual Funds
+437,Debit Card
+437,Mobile Banking
+438,General Insurance
+439,NRI Banking
+439,Stocks
+440,General Insurance
+440,General Insurance
+440,Savings Account
+440,General Insurance
+441,Mutual Funds
+441,NRI Banking
+441,NRI Banking
+441,Mobile Banking
+442,Bonds
+443,Car Insurance
+443,Car Insurance
+444,Car Insurance
+444,General Insurance
+444,General Insurance
+444,Mobile Banking
+445,Car Insurance
+445,PPF
+445,General Insurance
+445,FD
+446,Mutual Funds
+446,NPS
+447,FD
+447,Mutual Funds
+447,Mutual Funds
+447,Savings Account
+449,NRI Banking
+449,FD
+449,Car Insurance
+450,General Insurance
+450,FD
+451,General Insurance
+452,NRI Banking
+452,Savings Account
+452,Mobile Banking
+454,Bonds
+454,PPF
+454,PPF
+455,General Insurance
+456,Debit Card
+456,NPS
+456,NPS
+457,NPS
+457,General Insurance
+457,General Insurance
+458,FD
+458,PPF
+460,Bonds
+461,FD
+462,Stocks
+462,PPF
+463,FD
+463,Mobile Banking
+463,Stocks
+464,NRI Banking
+465,Mutual Funds
+466,PPF
+466,Bonds
+466,Bonds
+468,Debit Card
+468,PPF
+468,Credit Card
+469,Mobile Banking
+469,Debit Card
+469,Savings Account
+470,NPS
+470,Mobile Banking
+470,Credit Card
+471,General Insurance
+471,PPF
+471,General Insurance
+471,FD
+472,Mutual Funds
+472,Bonds
+473,PPF
+473,FD
+474,Mobile Banking
+474,NRI Banking
+474,Savings Account
+476,Savings Account
+477,NRI Banking
+477,Mutual Funds
+478,Mobile Banking
+478,Savings Account
+479,Credit Card
+479,General Insurance
+479,Debit Card
+480,Car Insurance
+481,Savings Account
+481,Savings Account
+482,NPS
+482,Bonds
+482,Car Insurance
+483,PPF
+484,PPF
+484,Stocks
+484,Stocks
+484,Mutual Funds
+485,Debit Card
+485,Car Insurance
+486,General Insurance
+486,General Insurance
+487,Car Insurance
+487,Savings Account
+488,General Insurance
+488,Stocks
+489,PPF
+491,Mutual Funds
+491,Debit Card
+492,PPF
+492,Debit Card
+492,FD
+492,NPS
+492,Credit Card
+492,PPF
+493,Debit Card
+495,Debit Card
+495,Car Insurance
+497,NRI Banking
+497,PPF
+497,Mobile Banking
+498,Debit Card
+498,Credit Card
+499,NRI Banking
+499,FD
+499,Stocks
+499,Debit Card
+500,PPF
+500,Mutual Funds
